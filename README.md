@@ -1,6 +1,19 @@
 # Punisher
 
-TODO: Write a gem description
+Punish your database to uncover its weaknesses.
+
+This is a work in progress. Eventually there will be a number of tools that
+attempt to provide load, failure and recovery scenarios that will enable
+you to gauge the strengths and weaknesses of a given database.
+
+## Why?
+
+It seems many databases today maintain many claims about their performance
+and the nature of their ACID compliance. But distinguishing between
+marketing and verifiable truth is difficult. Punisher seeks to change this,
+and provide you with the tools to confirm things for yourself.
+
+> For the guilty there is no escape from my justice!
 
 ## Installation
 
