@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Punisher::VERSION
   gem.authors       = ["Michael Bulat"]
   gem.email         = ["mbulat@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Punish your database}
+  gem.summary       = %q{Punish your database to uncover it's true level of ACID features}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
