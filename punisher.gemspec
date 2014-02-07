@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "punisher"
   gem.version       = Punisher::VERSION
   gem.authors       = ["Michael Bulat"]
-  gem.email         = ["mbulat@gmail.com"]
+  gem.email         = ["mbulat@crazydogsoftware.com"]
   gem.description   = %q{Punish your database}
   gem.summary       = %q{Punish your database to uncover it's true level of ACID features}
   gem.homepage      = ""
